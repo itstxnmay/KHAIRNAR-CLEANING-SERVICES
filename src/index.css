@@ -5,8 +5,8 @@
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-display: "Oswald", ui-sans-serif, system-ui, sans-serif;
   --font-anton: "Anton", ui-sans-serif, system-ui, sans-serif;
-  --color-pristine-dark: #020c1b;
-  --color-pristine-blue: #0ea5e9;
+  --color-pristine-dark: #0d0a07;
+  --color-pristine-blue: #f97316;
 }
 
 body {
@@ -88,7 +88,7 @@ html {
   position: fixed;
   inset: 0;
   z-index: 40;
-  background-color: rgba(2, 12, 27, 0.97);
+  background-color: rgba(13, 10, 7, 0.97);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   display: flex;
